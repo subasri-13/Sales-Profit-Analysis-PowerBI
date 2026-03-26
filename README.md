@@ -1,4 +1,4 @@
-# SALES-PROFIT-ANALYSIS-PowerBI
+# SALES&PROFIT-ANALYSIS-PowerBI
 
 
 <img width="1163" height="662" alt="Screenshot 2026-03-26 181325" src="https://github.com/user-attachments/assets/64e9d20f-91ba-49c3-baf6-0d203ac639b3" />
