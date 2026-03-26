@@ -21,10 +21,15 @@ Sales & Profit Insights
 To provide a high-level summary of business performance using key KPIs and category-wise distribution.
 
 📊 Key Features
+
 KPIs: Total Sales (34bn), Total Profit (19bn), Total Cost (15bn), Total Quantity (20M)
+
 Category-wise sales distribution
+
 Product-wise rate comparison
+
 Salesperson performance analysis
+
 Detailed table with sales, quantity, and profit by place
 
 🔍 Insights
@@ -42,12 +47,19 @@ Provides a quick snapshot of overall business health
 To analyze sales performance over time using rolling averages and time-based KPIs.
 
 📊 Key Features
+
 KPIs: YTD (26bn), MTD (39M), QTD (6bn), Average Sales (4.36M)
+
 Moving averages:
+
 7-day sales by place
+
 2-week sales by product
+
 4-week sales by party
+
 6-month sales by category
+
 🔍 Insights
 Sales show strong dependency on a few customers and locations
 Furniture dominates long-term sales trends
@@ -63,12 +75,19 @@ Helps identify seasonality and performance consistency
 To evaluate profitability trends over time and identify high-margin areas.
 
 📊 Key Features
+
 KPIs: YTD Profit (15bn), MTD (22M), QTD (3bn), Profit % (0.56)
+
 Moving profit trends:
+
 1-month by category
+
 6-month by location
+
 Yearly by product
+
 2-week by customer
+
 🔍 Insights
 Profit is heavily driven by Furniture category
 Significant drop in profit across other categories
@@ -84,12 +103,19 @@ Highlights profit concentration and margin gaps
 To compare sales vs profit performance across multiple dimensions.
 
 📊 Key Features
+
 Sales vs Profit by:
+
 Party Name
+
 Place
+
 Category
+
 Salesperson
+
 Year 
+
 🔍 Insights
 Strong positive correlation between sales and profit, but not always proportional
 Some segments show high sales but low profit margins
