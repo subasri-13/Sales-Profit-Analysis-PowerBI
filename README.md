@@ -15,6 +15,7 @@ Sales & Profit Insights
 <img width="1161" height="647" alt="Screenshot 2026-03-26 171253" src="https://github.com/user-attachments/assets/7730cc57-c848-44f2-8bba-798ac98798c6" />
 
 🔹 1. Sales Overview
+
 📌 Objective
 
 To provide a high-level summary of business performance using key KPIs and category-wise distribution.
@@ -35,6 +36,7 @@ Provides a quick snapshot of overall business health
 <img width="1136" height="643" alt="Screenshot 2026-03-26 171323" src="https://github.com/user-attachments/assets/1a2446da-cd37-4895-bf76-ff6548c6ac38" />
 
 🔹 2. Sales Trends & Time Analysis
+
 📌 Objective
 
 To analyze sales performance over time using rolling averages and time-based KPIs.
@@ -55,6 +57,7 @@ Helps identify seasonality and performance consistency
 <img width="1164" height="652" alt="Screenshot 2026-03-26 171353" src="https://github.com/user-attachments/assets/6b05e387-8a29-4e04-87cf-1bdc52439a1b" />
 
 🔹 3. Profit Trends & Time Analysis
+
 📌 Objective
 
 To evaluate profitability trends over time and identify high-margin areas.
@@ -75,6 +78,7 @@ Highlights profit concentration and margin gaps
 <img width="1153" height="627" alt="Screenshot 2026-03-26 171417" src="https://github.com/user-attachments/assets/51f4f8e1-26b4-43a2-ba06-066d68a2dec4" />
 
 🔹 4. Sales & Profit Insights
+
 📌 Objective
 
 To compare sales vs profit performance across multiple dimensions.
